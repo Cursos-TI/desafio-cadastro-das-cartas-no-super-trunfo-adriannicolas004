@@ -40,7 +40,7 @@ int main() {
 
     // Sorteio da carta do jogador e do computador
 
-    
+
     int cartaJogador = rand() % TOTAL_CARTAS;
     int cartaComputador;
     do {
